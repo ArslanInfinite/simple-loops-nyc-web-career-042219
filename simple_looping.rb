@@ -47,13 +47,13 @@ end
 def until_iterator(number_of_times)
   #loops phrase using 'until' keyword
     phrase = "Welcome to Flatiron School's Web Development Course!"
-      counter = 0 
+      counter = 0
         until counter == number_of_times
-          puts "phrase
-  counter += 1 
-  end 
+          puts phrase
+  counter += 1
+  end
 end
-  
+
   # until_iterator(4)
 
 def for_iterator(number_of_times)
