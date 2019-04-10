@@ -12,13 +12,12 @@ def loop_iterator(number_of_times)
     counter = 0
     loop do
       counter += 1
-      puts "#{phrase}"
+      puts phrase
 
       if counter >= number_of_times
         break
       end
     end
-    #loops loop prints out phrase 7 time_select
   end
 
   loop_iterator(7)
