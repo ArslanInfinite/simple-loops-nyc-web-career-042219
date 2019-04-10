@@ -35,13 +35,13 @@ end
 def while_iterator(number_of_times)
     #loops phrase using 'while' keyword
     phrase = "Welcome to Flatiron School's Web Development Course!"
-    counter = 0 
+    counter = 0
     while counter < number_of_times
       puts "#{phrase}"
-      counter += 1 
-    end 
+      counter += 1
+    end
 end
-  
+
   while_iterator(3)
 
 def until_iterator(number_of_times)
