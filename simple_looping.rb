@@ -19,7 +19,7 @@ def loop_iterator(number_of_times)
     end
   end
 
-  loop_iterator(7)
+
 
 
 def times_iterator(number_of_times)
@@ -30,7 +30,7 @@ def times_iterator(number_of_times)
     end
 end
 
-  times_iterator(4)
+
 
 def while_iterator(number_of_times)
     #loops phrase using 'while' keyword
@@ -42,7 +42,7 @@ def while_iterator(number_of_times)
     end
 end
 
-  while_iterator(3)
+
 
 def until_iterator(number_of_times)
   #loops phrase using 'until' keyword
@@ -54,7 +54,7 @@ def until_iterator(number_of_times)
   end
 end
 
-until_iterator(4)
+
 
 def for_iterator(number_of_times)
     #loops phrase using 'for' keyword
